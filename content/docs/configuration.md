@@ -9,7 +9,7 @@ summary: Syntax highlighting and menus can be configured via `config.toml`.
 ## Syntax Highlighting
 
 Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
-
+ 
 You can insert code snippets in any markdown file by using standard code fences syntax ie:
 
 ````
