@@ -1,4 +1,4 @@
-baseURL = "http://zrosenfield.gitpages.io/"
+baseURL = "http://zrosenfield.github.io/"
 languageCode = "en-us"
 title = "M365 Guide for Nonprofits"
 theme = "hugo-whisper-theme"
