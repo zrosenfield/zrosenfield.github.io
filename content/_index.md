@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
-date: 2018-11-28T15:14:39+10:00
+title: 'Microsoft365 Guide for Nonprofits'
+date: 2022-05-15T15:14:39-7:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+This is a crowd sourced getting started guide for M365 targeted towards Nonprofit organizations. 
