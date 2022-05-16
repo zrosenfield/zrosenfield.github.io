@@ -1,8 +1,8 @@
 ---
-title: 'Install Theme'
+title: '-Install Theme'
 date: 2019-02-11T19:27:37+10:00
 draft: true
-weight: 3
+weight: 4
 ---
 
 ## Create a new Hugo site

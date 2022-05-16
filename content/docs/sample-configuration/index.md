@@ -1,5 +1,5 @@
 ---
-title: 'Configuration'
+title: '-Configuration'
 date: 2022-05-15T15:14:39-7:00
 draft: true
 weight: 4
